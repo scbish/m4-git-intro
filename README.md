@@ -108,3 +108,5 @@ Using git and GitHub can be challenging, and you'll inevitably run into issues. 
 To practice using these basic commands, see [exercise-1](exercise-1).
 
 Now I'm adding stuff to the other README.md just because I can'
+
+Now I'm testing other stuff'
