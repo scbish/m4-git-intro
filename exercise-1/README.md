@@ -10,6 +10,7 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 6. Using your terminal, add and commit the changes you've made to your repository
 7. Push changes up to GitHub
 
+#Formatting Test
 I'm adding something to this file'
 
 I'm now fixing a lot of bugs in this program'
