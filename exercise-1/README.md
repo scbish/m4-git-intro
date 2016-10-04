@@ -11,3 +11,5 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 7. Push changes up to GitHub
 
 I'm adding something to this file'
+
+I'm now fixing a lot of bugs in this program'
